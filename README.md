@@ -7,9 +7,9 @@ But it work.
 
 ### Template containce:
 
-	HTML
-	CSS
-	JS plugins
+ -	HTML
+ -	CSS
+ -	JS plugins
 
  > All plugins credits in their files.
  
