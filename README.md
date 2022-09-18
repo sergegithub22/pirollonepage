@@ -1,5 +1,5 @@
 # Piroll One Page
-### Description
+### Description:
 One page  web-site HTML template.
 My the very first :rocket: web-site HTML template.
 A ~~little~~ very different from what I'm coding now.
