@@ -1,16 +1,14 @@
 # Piroll One Page. Web-site HTML template.
 
-
 My the very first :rocket: HTML template.
 A ~~little~~ very different from what I'm coding now.
 But it work.
-Floats were used.
 
-### Template containce:
+### Used:
+ - HTML
+ - CSS
+ - JS plugins: button up
+ - Floats
 
- -	HTML
- -	CSS
- -	JS plugins
-
- > All plugins credits in their files.
+ > All credits in their files.
  
