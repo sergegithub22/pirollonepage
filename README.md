@@ -5,7 +5,7 @@ My the very first :rocket: web-site HTML template.\
 A ~~little~~ very different from what I'm coding now.\
 But it works :stuck_out_tongue_winking_eye:.\
 Layout bilded on floats.
-### Used: 
+###Used: 
  - HTML
  - CSS
  - JS 
