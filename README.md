@@ -1,5 +1,4 @@
 # Piroll One Page
-## Description:
 One page  web-site HTML template.\
 My the very first :rocket: web-site HTML template.\
 A ~~little~~ very different from what I'm coding now.\
@@ -11,5 +10,5 @@ Layout bilded on floats.
  - JS 
 ### Third party assets: (thanks to all who made it :pray:)
  - Design
- - JS plugins: button up
+ - JS
  > All credits in their files.
