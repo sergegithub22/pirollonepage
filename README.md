@@ -11,5 +11,5 @@ Layout bilded on floats.
  - JS 
 ### Third party assets: (thanks to all who made it :pray:)
  - Design
- - JS plugins
+ - JS plugins: button up
  > All credits in their files.
