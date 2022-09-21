@@ -3,7 +3,7 @@ One page  web-site HTML template.\
 My the very first :rocket: web-site HTML template.\
 A ~~little~~ very different from what I'm coding now.\
 But it works :stuck_out_tongue_winking_eye:.\
-Layout bilded on floats.
+Layout built on floats.
 ### Used: 
  - HTML
  - CSS
